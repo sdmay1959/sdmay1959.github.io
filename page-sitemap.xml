@@ -32,14 +32,6 @@
 		<lastmod>2017-01-12T16:17:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sidneymaylaw.com/practice-areas/tractor-trailer-and-trucking-accidents/</loc>
-		<lastmod>2017-01-12T16:39:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Highway.jpg</image:loc>
-			<image:title><![CDATA[Four lane controlled-access highway in Poland]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://sidneymaylaw.com/attorney-profile/</loc>
 		<lastmod>2017-02-07T05:05:05+00:00</lastmod>
 		<image:image>
@@ -77,10 +69,18 @@
 	</url>
 	<url>
 		<loc>https://sidneymaylaw.com/practice-areas/auto-accident-injuries-and-deaths/</loc>
-		<lastmod>2020-07-25T20:15:59+00:00</lastmod>
+		<lastmod>2020-07-28T03:30:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/09/Accident.jpg</image:loc>
 			<image:title><![CDATA[Car  Accident  Crash]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://sidneymaylaw.com/practice-areas/tractor-trailer-and-trucking-accidents/</loc>
+		<lastmod>2020-07-28T03:43:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Highway.jpg</image:loc>
+			<image:title><![CDATA[Four lane controlled-access highway in Poland]]></image:title>
 		</image:image>
 	</url>
 </urlset>
