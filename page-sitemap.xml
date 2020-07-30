@@ -44,14 +44,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sidneymaylaw.com/practice-areas/work-injuries-workers-compensation/</loc>
-		<lastmod>2018-05-11T18:58:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Mandown.jpg</image:loc>
-			<image:title><![CDATA[Dangerous accident during work]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://sidneymaylaw.com/contact/</loc>
 		<lastmod>2019-06-03T16:16:41+00:00</lastmod>
 	</url>
@@ -60,16 +52,16 @@
 		<lastmod>2019-06-03T16:19:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sidneymaylaw.com/practice-areas/personal-injury/</loc>
-		<lastmod>2020-07-25T18:32:32+00:00</lastmod>
+		<loc>https://sidneymaylaw.com/practice-areas/work-injuries-workers-compensation/</loc>
+		<lastmod>2020-07-29T01:05:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Emergency.jpg</image:loc>
-			<image:title><![CDATA[Emergency Room Entrance]]></image:title>
+			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Mandown.jpg</image:loc>
+			<image:title><![CDATA[Dangerous accident during work]]></image:title>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://sidneymaylaw.com/practice-areas/auto-accident-injuries-and-deaths/</loc>
-		<lastmod>2020-07-28T03:30:19+00:00</lastmod>
+		<lastmod>2020-07-29T01:23:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/09/Accident.jpg</image:loc>
 			<image:title><![CDATA[Car  Accident  Crash]]></image:title>
@@ -77,10 +69,18 @@
 	</url>
 	<url>
 		<loc>https://sidneymaylaw.com/practice-areas/tractor-trailer-and-trucking-accidents/</loc>
-		<lastmod>2020-07-28T03:43:36+00:00</lastmod>
+		<lastmod>2020-07-29T01:29:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Highway.jpg</image:loc>
 			<image:title><![CDATA[Four lane controlled-access highway in Poland]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://sidneymaylaw.com/practice-areas/personal-injury/</loc>
+		<lastmod>2020-07-29T01:32:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://sidneymaylaw.com/wp-content/uploads/2016/08/Emergency.jpg</image:loc>
+			<image:title><![CDATA[Emergency Room Entrance]]></image:title>
 		</image:image>
 	</url>
 </urlset>
